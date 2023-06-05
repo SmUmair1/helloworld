@@ -1,1 +1,2 @@
-print("Hello, World")
+Import logging
+logging.info("Hello, World")
